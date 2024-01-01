@@ -1,2 +1,4 @@
 # muzzammil2-demo
-this is my practice on git hub website to create repositories
+this is practiced on the git hub website to create repositories.
+<br>
+Author - Muhammad Muzzammil
